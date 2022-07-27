@@ -20,7 +20,7 @@
   <a href="https://instagram.com/wilksonsoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wilkson#4063" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/wilkson-flor-a50b4066" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/wilksonflor/wilksonflor/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wilksonflor/Wilksonflor/blob/output/github-contribution-grid-snake.svg)
   </div>
 <!---
 Wilksonflor/Wilksonflor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
