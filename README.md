@@ -1,7 +1,7 @@
-##Olá, sou Wilkson Flor
+# Olá, sou Wilkson Flor
 
-- 👋 Apaixonado pelo mundo da programação.
-- 👀 Estudante de programação com foco em Front-End
+# Estudante de programação com foco em Front-End
+ 
 
 <div align="center">
   <a href="https://github.com/wilksonflor">
