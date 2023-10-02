@@ -6,7 +6,7 @@ Sou um estudante de programação apaixonado pelo desenvolvimento Front-End. Min
 
 💡 Além do desenvolvimento de software, tenho um grande interesse em design de interface e experiência do usuário, pois acredito que a combinação de uma codificação sólida com um design intuitivo é a chave para criar produtos excepcionais.
 
-📫 Vamos nos conectar? Estou sempre aberto a oportunidades de networking e colaboração. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/wilkson-flor-a50b4066) ou no [Instagram](https://instagram.com/wilksonsoares). Vamos juntos criar projetos incríveis!
+📫 Vamos nos conectar? Estou sempre aberto a oportunidades de networking e colaboração. Você pode me encontrar no [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilkson-flor-a50b4066) ou no [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wilksonsoares). Vamos juntos criar projetos incríveis!
 
 
 
