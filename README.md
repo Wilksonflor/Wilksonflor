@@ -1,7 +1,15 @@
-# Olá, sou Wilkson Flor
+### Olá, sou Wilkson Flor 👋
 
-# Desenvolvedor Front-end
- 
+Sou um estudante de programação apaixonado pelo desenvolvimento Front-End. Minha jornada no mundo da programação começou com um interesse profundo em criar experiências de usuário incríveis e funcionais na web. Atualmente, estou focado em aprimorar minhas habilidades em JavaScript, React, HTML5 e CSS3, além de explorar tecnologias como Node.js e MongoDB.
+
+🚀 Estou sempre em busca de novos desafios e projetos empolgantes para aprimorar minhas habilidades e expandir meu conhecimento na área de desenvolvimento web. Acredito que a colaboração e a aprendizagem contínua são fundamentais para o sucesso nesse campo em constante evolução.
+
+💡 Além do desenvolvimento de software, tenho um grande interesse em design de interface e experiência do usuário, pois acredito que a combinação de uma codificação sólida com um design intuitivo é a chave para criar produtos excepcionais.
+
+📫 Vamos nos conectar? Estou sempre aberto a oportunidades de networking e colaboração. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/wilkson-flor-a50b4066) ou no [Instagram](https://instagram.com/wilksonsoares). Vamos juntos criar projetos incríveis!
+
+
+
 
 <div align="center">
   <a href="https://github.com/wilksonflor">
@@ -26,15 +34,11 @@
           
 </div>
   
- ### Conecte-se comigo
   <div> 
 
-  <a href="https://instagram.com/wilksonsoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wilkson-flor-a50b4066" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/wilksonflor/wilksonflor/blob/output/github-contribution-grid-snake.svg)
  
-</div>
 <!---
 Wilksonflor/Wilksonflor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
