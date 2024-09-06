@@ -1,12 +1,21 @@
-### Olá, sou Wilkson Flor 👋
+## Olá, sou Wilkson Flor 👋
+# Desenvolvedor Frontend 
+Sou um desenvolvedor com foco em frontend, sempre buscando novas maneiras de criar interfaces de usuário intuitivas e funcionais. Tenho experiência com uma ampla gama de tecnologias, com foco principal em JavaScript e frameworks modernos como React.
 
-Sou um estudante de programação apaixonado pelo desenvolvimento Front-End. Minha jornada no mundo da programação começou com um interesse profundo em criar experiências de usuário incríveis e funcionais na web. Atualmente, estou focado em aprimorar minhas habilidades em JavaScript, React, HTML5 e CSS3, além de explorar tecnologias como Node.js e MongoDB.
+# 🚀 Sobre mim
+• 💻 Especialização: Desenvolvimento de interfaces dinâmicas e responsivas.
 
-🚀 Estou sempre em busca de novos desafios e projetos empolgantes para aprimorar minhas habilidades e expandir meu conhecimento na área de desenvolvimento web. Acredito que a colaboração e a aprendizagem contínua são fundamentais para o sucesso nesse campo em constante evolução.
+• 🌱 Atualmente aprendendo: TypeScript, NodeJs para aprimorar minhas habilidades em backend.
 
-💡 Além do desenvolvimento de software, tenho um grande interesse em design de interface e experiência do usuário, pois acredito que a combinação de uma codificação sólida com um design intuitivo é a chave para criar produtos excepcionais.
+• 🎯 Meta: Contribuir para projetos que impactem positivamente o mundo e aprender continuamente.
 
-📫 Vamos nos conectar? Estou sempre aberto a oportunidades de networking e colaboração. Você pode me encontrar no [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilkson-flor-a50b4066) ou no [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wilksonsoares). Vamos juntos criar projetos incríveis!
+
+# 📫 Vamos nos conectar?
+
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilkson-flor-a50b4066) 
+
+ [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wilksonsoares). 
+
 
 
 
