@@ -1,8 +1,8 @@
-## Olá, sou Wilkson Flor 👋
-# Desenvolvedor Frontend 
+# Olá, sou Wilkson Flor 👋
+## Desenvolvedor Frontend 
 Sou um desenvolvedor com foco em frontend, sempre buscando novas maneiras de criar interfaces de usuário intuitivas e funcionais. Tenho experiência com uma ampla gama de tecnologias, com foco principal em JavaScript e frameworks modernos como React.
 
-# 🚀 Sobre mim
+## 🚀 Sobre mim
 • 💻 Especialização: Desenvolvimento de interfaces dinâmicas e responsivas.
 
 • 🌱 Atualmente aprendendo: TypeScript, NodeJs para aprimorar minhas habilidades em backend.
@@ -10,7 +10,7 @@ Sou um desenvolvedor com foco em frontend, sempre buscando novas maneiras de cri
 • 🎯 Meta: Contribuir para projetos que impactem positivamente o mundo e aprender continuamente.
 
 
-# 📫 Vamos nos conectar?
+## 📫 Vamos nos conectar?
 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilkson-flor-a50b4066) 
 
