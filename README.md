@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently working at:** [Clubee](https://clubee.com/)
+
 - 🌱 **Currently learning:** TypeScript
 - 💡 **Passionate about:** Building intuitive and user-friendly interfaces.
 
