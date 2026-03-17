@@ -1,93 +1,116 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello!+I'm+Wilkson+Flor;Frontend+Developer+%F0%9F%92%BB;React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Design+Lover+%F0%9F%92%A8" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<br/>
+
+```
+W I L K S O N   F L O R
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=818CF8&center=true&vCenter=true&width=480&lines=Frontend+Engineer+%E2%80%94+React+%2F+React+Native+%2F+TypeScript;Building+interfaces+people+love+to+use;UX-driven+development+%7C+Design+Systems;Open+to+remote+%26+freelance+opportunities" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-wilksondev.netlify.app-818CF8?style=flat-square&logo=vercel&logoColor=white)](https://wilksondev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wilksonflor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilksonflor)
+[![Email](https://img.shields.io/badge/Email-wilksonflor%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wilksonflor@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=wilksonflor&label=Profile+Views&color=818CF8&style=flat-square)](https://github.com/wilksonflor)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wilksonflor&label=Profile%20views&color=00c8ff&style=flat-square" alt="Profile Views" />
-</p>
+---
+
+## About
+
+Frontend Engineer with a strong focus on **user experience and interface quality**. I work at the intersection of design and engineering — turning complex problems into clean, intuitive products.
+
+Currently building with **React, React Native, TypeScript, and Node.js**, with a growing interest in **design systems**, **accessibility**, and **performance optimization**.
+
+> Available for **remote**, **freelance**, or **full-time** positions.
 
 ---
 
-## 🚀 About Me
+## Featured Projects
 
-🎯 **Frontend Developer focused on UX/UI**, passionate about crafting elegant, accessible, and scalable user interfaces.  
-🎨 I love merging **design and code** to deliver **delightful user experiences**.  
-💼 Currently working on personal projects and on-demand solutions using **React, React Native, and Node.js**.  
-🧠 Always learning: improving my skills in **TypeScript**, **Next.js**, **design systems**, and **clean code practices**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [EstavaLiso](https://github.com/wilksonflor/estavaliso)
+Personal finance app with financial goal tracking, interactive charts, and detailed reports. Focused on clarity and actionable data visualization.
 
-## 📂 Highlight Projects
+`React Native` `Node.js` `PostgreSQL`
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [EstavaLiso](https://github.com/wilksonflor/estavaliso) | A personal finance app with goals, charts, and detailed reports. | React Native, Node.js, PostgreSQL |
-| [Payroll Management System](https://github.com/wilksonflor/folha-pagamento) | Full-featured payroll system with earnings, deductions, filters, and reports. | React, Tailwind CSS, PostgreSQL |
-| [Interactive Form with Validation](https://github.com/wilksonflor/formulario-inteligente) | Interactive form with step-by-step flow, validation, and Firestore integration. | React, Zod, Firebase |
-| [Estilo & Decor 3D](https://estiloedecor3d.netlify.app/) | Landing page for a real 3D printing company that manufactures decorative and functional pieces using 3D printers. Fully responsive and optimized for marketing. | React, Tailwind CSS |
+</td>
+<td width="50%" valign="top">
 
-> 📌 Check out more on [my portfolio](https://wilksondev.netlify.app/)
+### [Payroll Management System](https://github.com/wilksonflor/folha-pagamento)
+Complete payroll management with earnings, deductions, and exportable reports. Built for accuracy and real-world HR workflows.
 
----
+`React` `Tailwind CSS` `PostgreSQL`
 
-## 🧰 Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### [Smart Form with Validation](https://github.com/wilksonflor/formulario-inteligente)
+Multi-step form with real-time validation, progress flow, and Firestore integration. Reduced user error rate through UX-first design decisions.
 
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+`React` `Zod` `Firebase`
 
-### 🛠 Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+<td width="50%" valign="top">
+
+### [Estilo & Decor 3D](https://estiloedecor3d.netlify.app/)
+Production landing page for a 3D printing company. Fully responsive, conversion-optimized, and deployed to a live client.
+
+`React` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilksonflor&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilksonflor&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilksonflor&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wilksonflor&theme=onedark&margin-w=10&margin-h=15&column=6" />
-</p>
+```
+Frontend          React · React Native · Next.js · TypeScript · Tailwind CSS
+Backend           Node.js · Express · REST APIs
+Databases         PostgreSQL · MySQL · MongoDB
+Design & UX       Figma · Component Architecture · Design Systems
+Tooling           Git · Docker · VS Code
+```
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Stats
 
-<p align="center">
-  <a href="https://linkedin.com/in/wilksonflor" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wilksonflor@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wilksondev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wilksonflor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=818CF8&icon_color=818CF8&text_color=94a3b8&ring_color=818CF8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilksonflor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=818CF8&text_color=94a3b8" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wilksonflor&theme=tokyonight&hide_border=true&background=0d0d0d&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" width="60%"/>
+
+</div>
 
 ---
 
-> ✨ *Open to freelance, remote, or full-time frontend positions. Let’s build something amazing together!*
+## GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=wilksonflor&theme=onedark&margin-w=8&margin-h=10&column=6&no-bg=true" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+
+</div>
